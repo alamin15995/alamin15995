@@ -14,8 +14,7 @@ I aim to use my skills to create impactful solutions while constantly evolving i
 
 ## 🛠️ Technical Skills
 
-### **Programming Languages**
-- **Proficient:** C, C++, Java, PHP, JavaScript, Python
+### **Programming Languages** - **Proficient:** C, C++, Java, PHP, JavaScript, Python
 
 ### **Software Engineering**
 - **Frontend Development:** HTML, CSS, Bootstrap, TailwindCSS, React.js, Next.js
@@ -27,7 +26,7 @@ I aim to use my skills to create impactful solutions while constantly evolving i
 
 ### **Computer Networking** - CCNA 
 
-### **Tools & IDEs**
+### **Tools**
 - **Development Environments:** Visual Studio Code, Android Studio, Code::Blocks, NetBeans, Eclipse, IntelliJ IDEA
 - **Version Control:** Git, GitHub
 - **Design & Networking Tools:** Figma, NetAcad
